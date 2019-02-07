@@ -1,0 +1,9 @@
+Building U2coin
+
+See doc/readme-qt.rst for instructions on building U2coin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of U2coin.
+
+See doc/build-*.txt for instructions on building u2coind,
+the intended-for-services, no-graphical-interface, reference
+implementation of U2coin.
